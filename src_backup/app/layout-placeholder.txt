@@ -1,0 +1,1 @@
+File ini hanya penanda. Halaman utama ada di page.tsx.
